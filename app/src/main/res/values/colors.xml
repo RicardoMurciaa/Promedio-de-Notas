@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="material_on_primary_emphasis_high_type">#6200EE</color>
+    <color name="light_gray">#F0F0F0</color>
+</resources>
